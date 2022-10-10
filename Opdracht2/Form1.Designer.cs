@@ -32,6 +32,7 @@
             this.CBSlang = new System.Windows.Forms.CheckBox();
             this.CBVarken = new System.Windows.Forms.CheckBox();
             this.BTDieren = new System.Windows.Forms.Button();
+            this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.SuspendLayout();
             // 
             // CBKoe
@@ -96,6 +97,7 @@
         private System.Windows.Forms.CheckBox CBSlang;
         private System.Windows.Forms.CheckBox CBVarken;
         private System.Windows.Forms.Button BTDieren;
+        private System.Drawing.Printing.PrintDocument printDocument1;
     }
 }
 
